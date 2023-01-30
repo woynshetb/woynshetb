@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# <h3>👩🏽‍💻💫  I'm Woynshet</h3>
+# <h1 align="center">👩🏽‍💻💫  I'm Woynshet</h1>
 I'm currently studying Python and Laravel.<br>I’m looking to collaborate on challenging project.<br>Ask me about Dart and javascript. 
 
 
