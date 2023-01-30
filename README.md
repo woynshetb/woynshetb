@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 👩🏽‍💻 I'm Woynshet
-I'm currently studying Python and Laravel.<br>I’m looking to collaborate on challenging project.<br>Ask me about Dart and javascript. 
+I'm currently learning Python and Laravel.<br>I’m looking to collaborate on challenging projects.<br>Ask me about Dart and javascript.<br> How to reach me : wbilihatu@gmail.com 
 
 
 ## 🌐 Socials:
