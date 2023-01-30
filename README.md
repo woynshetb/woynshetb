@@ -1,4 +1,4 @@
-<h1 align="center">ሰላም 👋 </h1>
+ሰላም 👋 
 
 <!--
 **woynshetb/woynshetb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# <h1 align="center">👩🏽‍💻💫  I'm Woynshet</h1>
+# 👩🏽‍💻 I'm Woynshet
 I'm currently studying Python and Laravel.<br>I’m looking to collaborate on challenging project.<br>Ask me about Dart and javascript. 
 
 
