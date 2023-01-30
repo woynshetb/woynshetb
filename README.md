@@ -1,4 +1,4 @@
-<h1 align="center">ሰላም 👋 </h1>
+<h1 align="center">ሰላም 👋 <br>🏽‍💻 I'm Woynshet </h1>
 
 <!--
 **woynshetb/woynshetb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
