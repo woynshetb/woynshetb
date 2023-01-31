@@ -1,4 +1,4 @@
-ሰላም 👋 
+
 
 <!--
 **woynshetb/woynshetb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👩🏽‍💻 I'm Woynshet
+# ሰላም 👋 I'm Woynshet 👩🏽‍💻
  🌱 I'm currently learning Python and Laravel.<br>👯 I’m looking to collaborate on challenging projects.<br>💬 Ask me about Dart and javascript.<br>📫 How to reach me : wbilihatu@gmail.com 
 
 
