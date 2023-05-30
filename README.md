@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# ሰላም 👋 I'm Woynshet 👩🏽‍💻
+# Hi 👋 I'm Woynshet 👩🏽‍💻
   
 🔭 I’m currently working on different Mobile application projects using Kotlin, Swift and Flutter.<br>🌱 I'm currently learning React Native and Laravel.<br>👯 I’m looking to collaborate on challenging projects.<br>💬 Ask me anything.<br>📫 How to reach me : wbilihatu@gmail.com 
 
